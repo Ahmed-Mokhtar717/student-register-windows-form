@@ -76,6 +76,8 @@ namespace WinFormsAssignment
                 lbl_Result.ForeColor = Color.Green;
                 lbl_Result.Text = $"{name}, {email}, {gender}, Favorite Color:{favColor}, Birthdate:{birthdate}, Country:{country}";
                 lbl_Email_Check.Text = string.Empty;
+                lbl_Name_Check.Text = string.Empty;
+                lbl_Password_Check.Text = string.Empty;
                 btnColorPicker.BackColor = SystemColors.Control;
                 btnColorPicker.Text = "Choose a Color";
 

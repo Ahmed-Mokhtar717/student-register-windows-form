@@ -1,12 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a\\source\\repos\\WinFormsAssignment\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\GitHub\\Repos\\student-register-windows-form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573D2C80-BC14-4CE5-B704-7C17BCC0DDC7}|WinFormsAssignment.csproj|d:\\github\\repos\\student-register-windows-form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D2C80-BC14-4CE5-B704-7C17BCC0DDC7}|WinFormsAssignment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D2C80-BC14-4CE5-B704-7C17BCC0DDC7}|WinFormsAssignment.csproj|D:\\GitHub\\Repos\\student-register-windows-form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{573D2C80-BC14-4CE5-B704-7C17BCC0DDC7}|WinFormsAssignment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\Repos\\student-register-windows-form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\Repos\\student-register-windows-form\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswE8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:29:55.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\Repos\\student-register-windows-form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\Repos\\student-register-windows-form\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:29:41.005Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

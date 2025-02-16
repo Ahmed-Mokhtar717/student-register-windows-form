@@ -18,3 +18,13 @@ C:\Users\a\source\repos\WinFormsAssignment\obj\Debug\WinFormsAssignment.csproj.G
 C:\Users\a\source\repos\WinFormsAssignment\obj\Debug\WinFormsAssignment.csproj.CoreCompileInputs.cache
 C:\Users\a\source\repos\WinFormsAssignment\obj\Debug\WinFormsAssignment.exe
 C:\Users\a\source\repos\WinFormsAssignment\obj\Debug\WinFormsAssignment.pdb
+D:\GitHub\Repos\student-register-windows-form\bin\Debug\WinFormsAssignment.exe.config
+D:\GitHub\Repos\student-register-windows-form\bin\Debug\WinFormsAssignment.exe
+D:\GitHub\Repos\student-register-windows-form\bin\Debug\WinFormsAssignment.pdb
+D:\GitHub\Repos\student-register-windows-form\obj\Debug\WinFormsAssignment.csproj.AssemblyReference.cache
+D:\GitHub\Repos\student-register-windows-form\obj\Debug\WinFormsAssignment.StudentForm.resources
+D:\GitHub\Repos\student-register-windows-form\obj\Debug\WinFormsAssignment.Properties.Resources.resources
+D:\GitHub\Repos\student-register-windows-form\obj\Debug\WinFormsAssignment.csproj.GenerateResource.cache
+D:\GitHub\Repos\student-register-windows-form\obj\Debug\WinFormsAssignment.csproj.CoreCompileInputs.cache
+D:\GitHub\Repos\student-register-windows-form\obj\Debug\WinFormsAssignment.exe
+D:\GitHub\Repos\student-register-windows-form\obj\Debug\WinFormsAssignment.pdb
